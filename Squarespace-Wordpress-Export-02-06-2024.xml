@@ -1,0 +1,3681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>onjomedia</title>
+    <link>https://www.onjomedia.com</link>
+    <pubDate>Tue, 06 Feb 2024 09:38:48 +0000</pubDate>
+    <description />
+    <language>fi-FI</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-2113439532</wp:author_id>
+      <wp:author_login>onjomedia@gmail.com</wp:author_login>
+      <wp:author_email>onjomedia@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[onjo media]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[onjo]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[media]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/koti</link>
+      <title>Koti</title>
+      <pubDate>Tue, 06 Feb 2024 12:07:12 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65c1fe2e38bf537c9da73827">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65c1fe2e38bf537c9da7382b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c1fe2e38bf537c9da7382a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(10,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c1fe2e38bf537c9da7382a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c1fe2e38bf537c9da7382a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-44be90615abbb9630895 {
+    grid-area: 1/2/11/10;
+    z-index: 1;
+
+    
+  }
+
+  .fe-block-44be90615abbb9630895 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-44be90615abbb9630895 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-44be90615abbb9630895 {
+      grid-area: 1/2/14/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-44be90615abbb9630895 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-44be90615abbb9630895 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-5b2758d1cb5203d4711b {
+    grid-area: 3/3/5/9;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-5b2758d1cb5203d4711b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5b2758d1cb5203d4711b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5b2758d1cb5203d4711b {
+      grid-area: 5/6/8/22;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-5b2758d1cb5203d4711b .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-5b2758d1cb5203d4711b .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c4e05abb1cbadb2a6d16 {
+    grid-area: 6/3/9/9;
+    z-index: 3;
+
+    
+  }
+
+  .fe-block-c4e05abb1cbadb2a6d16 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c4e05abb1cbadb2a6d16 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c4e05abb1cbadb2a6d16 {
+      grid-area: 8/6/10/22;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-c4e05abb1cbadb2a6d16 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-c4e05abb1cbadb2a6d16 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c1fe2e38bf537c9da7382a"><div class="fe-block fe-block-44be90615abbb9630895"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-44be90615abbb9630895"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg" data-image-dimensions="2500x1666" data-image-focal-point="0.5,0.5" alt="Placeholder" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg" width="2500" height="1666" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108240014-XDIUNHLV64UVCJ0VC29N/Sleek+Objects+1.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-44be90615abbb9630895 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-5b2758d1cb5203d4711b"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5b2758d1cb5203d4711b"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent"><strong>Onjomedia</strong> </span></h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c4e05abb1cbadb2a6d16"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c4e05abb1cbadb2a6d16"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent">meillä </span><span class="sqsrte-text-color--custom" style="color: #FFE855"><strong><em>onjo&nbsp;</em></strong></span></h1></span></div><div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent">ratkaisu ongelmiinne!</span></h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65c1fe2e38bf537c9da7384e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c1fe2e38bf537c9da7384d {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c1fe2e38bf537c9da7384d {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c1fe2e38bf537c9da7384d {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(11,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-0639731911588aa42021 {
+    grid-area: 2/2/4/10;
+    z-index: 1;
+
+    
+  }
+
+  .fe-block-0639731911588aa42021 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-0639731911588aa42021 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0639731911588aa42021 {
+      grid-area: 3/2/6/13;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-0639731911588aa42021 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-0639731911588aa42021 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-deb81ca0f5dd8ea9a248 {
+    grid-area: 4/4/6/8;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-deb81ca0f5dd8ea9a248 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-deb81ca0f5dd8ea9a248 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-deb81ca0f5dd8ea9a248 {
+      grid-area: 7/2/9/6;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-deb81ca0f5dd8ea9a248 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-deb81ca0f5dd8ea9a248 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-47b9f5c0ec2ee6447c91 {
+    grid-area: 6/2/17/10;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-47b9f5c0ec2ee6447c91 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-47b9f5c0ec2ee6447c91 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-47b9f5c0ec2ee6447c91 {
+      grid-area: 3/15/10/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-47b9f5c0ec2ee6447c91 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-47b9f5c0ec2ee6447c91 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c1fe2e38bf537c9da7384d"><div class="fe-block fe-block-0639731911588aa42021"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:30.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:30.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:30.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:30.0&#125;&#125;" id="block-0639731911588aa42021"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="white-space:pre-wrap;"><strong>mikä on </strong><span class="sqsrte-text-color--custom" style="color: #FFE855"><strong>onjomedia?</strong></span></h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-0639731911588aa42021 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 3% 3% 3% 3%;
+        border-radius: 30px 30px 30px 30px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+
+  hsla(330, 2.44%, 16.08%, 0.17)
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-deb81ca0f5dd8ea9a248"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-deb81ca0f5dd8ea9a248"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Ota yhteyttä
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-47b9f5c0ec2ee6447c91"><div class="sqs-block accordion-block sqs-block-accordion" data-blend-mode="NORMAL" data-block-type="69" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-47b9f5c0ec2ee6447c91"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+<ul
+  class="accordion-items-container"
+  data-should-allow-multiple-open-items=""
+  data-is-divider-enabled="true"
+  data-is-first-divider-visible="true"
+  data-is-last-divider-visible="true"
+  data-is-expanded-first-item=""
+  data-accordion-title-alignment="left"
+  data-accordion-description-alignment="left"
+  data-accordion-description-placement="left"
+  data-accordion-icon-placement="left"
+>
+  
+    <li class="accordion-item">
+
+      
+        
+          <div
+            class="accordion-divider accordion-divider--top"
+            aria-hidden="true"
+            style="
+              height: 1px;
+              opacity: 1;
+            "
+          ></div>
+        
+      
+
+      <h4
+        class="
+          accordion-item__title-wrapper
+          
+          
+          
+        "
+        role="heading"
+        aria-level="3"
+      >
+        <button
+          class="accordion-item__click-target"
+          aria-expanded="false"
+          style="
+            padding-top: 15px;
+            padding-bottom: 15px;
+            padding-left: 0px;
+            padding-right: 0px;
+          "
+        >
+          <span
+            class="accordion-item__title"
+            style="
+              
+
+              
+                padding-left: 14px;
+              
+            "
+          >
+            Onjmedia on media-markkinointi virasto, joka auttaa paikallisia yrityksiä saavuttamaan myyntiä. Luomme uudenmaan-alueella oleville yrityksille personalisoituja nettisivuja ilmaisella koikeilujaksolla.
+          </span>
+          <div
+            class="accordion-icon-container"
+            data-is-open="false"
+            aria-hidden="true"
+            style="
+              height: 14px;
+              width: 14px;
+            "
+          >
+            
+              <div class="plus">
+                <div
+                  class="plus__horizontal-line"
+                  style="height: 1px"
+                ></div>
+                <div
+                  class="plus__vertical-line"
+                  style="height: 1px"
+                ></div>
+              </div>
+            
+          </div>
+        </button>
+      </h4>
+      <div class="accordion-item__dropdown" role="region">
+        <div
+          class="
+            accordion-item__description
+            
+            
+            
+          "
+          style="
+            padding-top: 0px;
+            padding-bottom: 30px;
+            padding-left: 0px;
+            padding-right: 0px;
+
+            
+            
+            min-width: 75%;
+            max-width: 300px;
+          "
+        >
+          <p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+        </div>
+      </div>
+
+      
+        <div
+          class="accordion-divider"
+          aria-hidden="true"
+          style="
+            height: 1px;
+            opacity: 1;
+          "
+        ></div>
+      
+
+    </li>
+  
+</ul>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>koti</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/services</link>
+      <title>Palvelut</title>
+      <pubDate>Tue, 06 Feb 2024 11:43:12 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65c200456b41791a5076a312">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65c200456b41791a5076a316"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c200456b41791a5076a315 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(55,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c200456b41791a5076a315 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c200456b41791a5076a315 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(26,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-decb0ce7cb36a05c3d6f {
+    grid-area: 3/2/7/10;
+    z-index: 1;
+
+    
+      
+    
+  }
+
+  .fe-block-decb0ce7cb36a05c3d6f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-decb0ce7cb36a05c3d6f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-decb0ce7cb36a05c3d6f {
+      grid-area: 1/9/5/19;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-decb0ce7cb36a05c3d6f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-decb0ce7cb36a05c3d6f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9981628ce0c6cf2a66e3 {
+    grid-area: 4/3/6/9;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-9981628ce0c6cf2a66e3 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9981628ce0c6cf2a66e3 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9981628ce0c6cf2a66e3 {
+      grid-area: 2/10/4/18;
+      z-index: 10;
+
+      
+    }
+
+    .fe-block-9981628ce0c6cf2a66e3 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9981628ce0c6cf2a66e3 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1707218900661_12558 {
+    grid-area: 9/2/32/10;
+    z-index: 3;
+
+    
+      
+    
+  }
+
+  .fe-block-yui_3_17_2_1_1707218900661_12558 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1707218900661_12558 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1707218900661_12558 {
+      grid-area: 7/2/26/13;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1707218900661_12558 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1707218900661_12558 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1707215352944_28535 {
+    grid-area: 10/3/15/9;
+    z-index: 4;
+
+    
+      
+    
+  }
+
+  .fe-block-yui_3_17_2_1_1707215352944_28535 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1707215352944_28535 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1707215352944_28535 {
+      grid-area: 9/4/13/11;
+      z-index: 8;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1707215352944_28535 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1707215352944_28535 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-aea106952b89b022f539 {
+    grid-area: 11/4/14/8;
+    z-index: 5;
+
+    
+  }
+
+  .fe-block-aea106952b89b022f539 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-aea106952b89b022f539 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-aea106952b89b022f539 {
+      grid-area: 10/5/12/10;
+      z-index: 11;
+
+      
+    }
+
+    .fe-block-aea106952b89b022f539 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-aea106952b89b022f539 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-97495e25d85d36c759e4 {
+    grid-area: 16/3/18/9;
+    z-index: 7;
+
+    
+  }
+
+  .fe-block-97495e25d85d36c759e4 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-97495e25d85d36c759e4 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-97495e25d85d36c759e4 {
+      grid-area: 13/3/15/10;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-97495e25d85d36c759e4 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-97495e25d85d36c759e4 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-c0029534a734b5e33679 {
+    grid-area: 18/3/29/9;
+    z-index: 6;
+
+    
+  }
+
+  .fe-block-c0029534a734b5e33679 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c0029534a734b5e33679 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c0029534a734b5e33679 {
+      grid-area: 16/3/22/12;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-c0029534a734b5e33679 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c0029534a734b5e33679 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-5f381357ed7ef100d1c8 {
+    grid-area: 29/3/31/7;
+    z-index: 8;
+
+    
+  }
+
+  .fe-block-5f381357ed7ef100d1c8 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-5f381357ed7ef100d1c8 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5f381357ed7ef100d1c8 {
+      grid-area: 23/3/25/7;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-5f381357ed7ef100d1c8 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-5f381357ed7ef100d1c8 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9a85bd6bf37c33d8d200 {
+    grid-area: 33/2/56/10;
+    z-index: 9;
+
+    
+      
+    
+  }
+
+  .fe-block-9a85bd6bf37c33d8d200 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9a85bd6bf37c33d8d200 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9a85bd6bf37c33d8d200 {
+      grid-area: 7/15/26/26;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-9a85bd6bf37c33d8d200 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9a85bd6bf37c33d8d200 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3aabcdb54d2997a403bd {
+    grid-area: 34/3/39/9;
+    z-index: 13;
+
+    
+      
+    
+  }
+
+  .fe-block-3aabcdb54d2997a403bd .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3aabcdb54d2997a403bd .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3aabcdb54d2997a403bd {
+      grid-area: 9/17/13/24;
+      z-index: 12;
+
+      
+        
+      
+    }
+
+    .fe-block-3aabcdb54d2997a403bd .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3aabcdb54d2997a403bd .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-a7f2f90469be00f15989 {
+    grid-area: 35/4/38/8;
+    z-index: 14;
+
+    
+  }
+
+  .fe-block-a7f2f90469be00f15989 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a7f2f90469be00f15989 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a7f2f90469be00f15989 {
+      grid-area: 10/18/12/23;
+      z-index: 13;
+
+      
+    }
+
+    .fe-block-a7f2f90469be00f15989 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a7f2f90469be00f15989 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-f98ffcfd7e0bc03705e1 {
+    grid-area: 40/3/42/9;
+    z-index: 10;
+
+    
+  }
+
+  .fe-block-f98ffcfd7e0bc03705e1 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f98ffcfd7e0bc03705e1 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f98ffcfd7e0bc03705e1 {
+      grid-area: 13/16/15/23;
+      z-index: 5;
+
+      
+    }
+
+    .fe-block-f98ffcfd7e0bc03705e1 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-f98ffcfd7e0bc03705e1 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-6047bf4386e25780a3c9 {
+    grid-area: 42/3/54/9;
+    z-index: 11;
+
+    
+  }
+
+  .fe-block-6047bf4386e25780a3c9 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-6047bf4386e25780a3c9 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6047bf4386e25780a3c9 {
+      grid-area: 16/16/23/25;
+      z-index: 6;
+
+      
+    }
+
+    .fe-block-6047bf4386e25780a3c9 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6047bf4386e25780a3c9 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-146e34106dab72978ebf {
+    grid-area: 53/3/55/7;
+    z-index: 12;
+
+    
+  }
+
+  .fe-block-146e34106dab72978ebf .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-146e34106dab72978ebf .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-146e34106dab72978ebf {
+      grid-area: 23/16/25/20;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-146e34106dab72978ebf .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-146e34106dab72978ebf .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c200456b41791a5076a315"><div class="fe-block fe-block-decb0ce7cb36a05c3d6f"><div class="sqs-block website-component-block sqs-block-website-component website-component-block sqs-block-website-component" data-block-type="1337" data-definition-name="website.components.shape" id="block-decb0ce7cb36a05c3d6f"><div class="sqs-block-content">
+
+
+
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-stretched-to-fill
+  data-shape-name="rectangle"
+  
+  
+    
+      data-blend-mode='normal'
+    
+    
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+        
+          border-top-left-radius: 30px;
+        
+      
+      
+        
+          border-top-right-radius: 30px;
+        
+      
+      
+        
+          border-bottom-left-radius: 30px;
+        
+      
+      
+        
+          border-bottom-right-radius: 30px;
+        
+      
+      
+        
+      
+    "
+    ></div>
+  
+  <style>
+    #block-decb0ce7cb36a05c3d6f .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      #block-decb0ce7cb36a05c3d6f .sqs-shape > * {
+        
+          stroke: none;
+        
+      }
+    
+
+    
+      
+    
+
+    
+      
+        #block-decb0ce7cb36a05c3d6f {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--black-hsl), 0.22)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-9981628ce0c6cf2a66e3"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-9981628ce0c6cf2a66e3"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h2 style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>Palvelumme</strong></span></h2></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1707218900661_12558"><div class="sqs-block website-component-block sqs-block-website-component website-component-block sqs-block-website-component" data-block-type="1337" data-definition-name="website.components.shape" id="block-yui_3_17_2_1_1707218900661_12558"><div class="sqs-block-content">
+
+
+
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-stretched-to-fill
+  data-shape-name="rectangle"
+  
+  
+    
+      data-blend-mode='normal'
+    
+    
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+        
+          border-top-left-radius: 30px;
+        
+      
+      
+        
+          border-top-right-radius: 30px;
+        
+      
+      
+        
+          border-bottom-left-radius: 30px;
+        
+      
+      
+        
+          border-bottom-right-radius: 30px;
+        
+      
+      
+        
+      
+    "
+    ></div>
+  
+  <style>
+    #block-yui_3_17_2_1_1707218900661_12558 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      #block-yui_3_17_2_1_1707218900661_12558 .sqs-shape > * {
+        
+          stroke: none;
+        
+      }
+    
+
+    
+      
+    
+
+    
+      
+        #block-yui_3_17_2_1_1707218900661_12558 {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--black-hsl), 0.22)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1707215352944_28535"><div class="sqs-block website-component-block sqs-block-website-component website-component-block sqs-block-website-component" data-block-type="1337" data-definition-name="website.components.shape" id="block-yui_3_17_2_1_1707215352944_28535"><div class="sqs-block-content">
+
+
+
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-stretched-to-fill
+  data-shape-name="tv"
+  
+    data-drop-shadow='{"blur":{"unit":"px","value":10},"angle":69,"color":{"type":"SITE_PALETTE_COLOR","sitePaletteColor":{"colorName":"darkAccent","alphaModifier":1}},"distance":{"unit":"px","value":2}}'
+  
+  
+    
+      data-blend-mode='normal'
+    
+    
+  
+>
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <svg xmlns="http://www.w3.org/2000/svg" class="sqs-shape" viewBox="0 0 100 100"><path d="M90 95a190 190 0 01-80 0 8 8 0 01-5-5 188 188 0 010-80 8 8 0 015-5 190 190 0 0180 0 8 8 0 015 5 188 188 0 010 80 8 8 0 01-5 5z"/></svg>
+    
+    
+    
+    
+  
+  <style>
+    #block-yui_3_17_2_1_1707215352944_28535 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      #block-yui_3_17_2_1_1707215352944_28535 .sqs-shape > * {
+        
+          stroke: none;
+        
+      }
+    
+
+    
+      
+    
+
+    
+      
+      
+    
+
+    
+      
+        #block-yui_3_17_2_1_1707215352944_28535 {
+          --shape-block-dropshadow-color: 
+  
+    
+      hsla(var(--darkAccent-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-aea106952b89b022f539"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-aea106952b89b022f539"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h2 style="white-space:pre-wrap;"><span class="sqsrte-text-color--custom" style="color: rgb(0, 168, 255)"><strong>classic</strong></span></h2></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-97495e25d85d36c759e4"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-97495e25d85d36c759e4"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">yksinkertainen nettisivu</span></h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c0029534a734b5e33679"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c0029534a734b5e33679"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Alkaen 97€/kuussa</span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Yksinkertainen nettisivu yritykselle. Sisällytämme tiedot palveluistanne ja yrityksestänne </span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">-Yksinkertaisia ominaisuuksia ja toimintoja.</span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">-Yksinkertaiset nettisivut</span></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-5f381357ed7ef100d1c8"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-5f381357ed7ef100d1c8"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    ilmoittaudu
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-9a85bd6bf37c33d8d200"><div class="sqs-block website-component-block sqs-block-website-component website-component-block sqs-block-website-component" data-block-type="1337" data-definition-name="website.components.shape" id="block-9a85bd6bf37c33d8d200"><div class="sqs-block-content">
+
+
+
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-stretched-to-fill
+  data-shape-name="rectangle"
+  
+  
+    
+      data-blend-mode='normal'
+    
+    
+  
+>
+  
+    <div class="sqs-shape sqs-shape-rectangle"
+    style="
+      
+        
+          border-top-left-radius: 30px;
+        
+      
+      
+        
+          border-top-right-radius: 30px;
+        
+      
+      
+        
+          border-bottom-left-radius: 30px;
+        
+      
+      
+        
+          border-bottom-right-radius: 30px;
+        
+      
+      
+        
+      
+    "
+    ></div>
+  
+  <style>
+    #block-9a85bd6bf37c33d8d200 .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      #block-9a85bd6bf37c33d8d200 .sqs-shape > * {
+        
+          stroke: none;
+        
+      }
+    
+
+    
+      
+    
+
+    
+      
+        #block-9a85bd6bf37c33d8d200 {
+          --shape-block-background-color: 
+  
+    
+      hsla(var(--black-hsl), 0.22)
+    
+  
+  
+;
+        }
+      
+    
+
+    
+      
+        #block-9a85bd6bf37c33d8d200 {
+          --shape-block-dropshadow-color: 
+  
+    
+      hsla(var(--black-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-3aabcdb54d2997a403bd"><div class="sqs-block website-component-block sqs-block-website-component website-component-block sqs-block-website-component" data-block-type="1337" data-definition-name="website.components.shape" id="block-3aabcdb54d2997a403bd"><div class="sqs-block-content">
+
+
+
+
+<div
+  class="sqs-shape-block-container sqs-block-alignment-wrapper"
+  data-stretched-to-fill
+  data-shape-name="tv"
+  
+    data-drop-shadow='{"angle":69,"distance":{"unit":"px","value":2},"blur":{"unit":"px","value":10},"color":{"type":"SITE_PALETTE_COLOR","sitePaletteColor":{"colorName":"darkAccent","alphaModifier":1}}}'
+  
+  
+    
+      data-blend-mode='normal'
+    
+    
+  
+>
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <svg xmlns="http://www.w3.org/2000/svg" class="sqs-shape" viewBox="0 0 100 100"><path d="M90 95a190 190 0 01-80 0 8 8 0 01-5-5 188 188 0 010-80 8 8 0 015-5 190 190 0 0180 0 8 8 0 015 5 188 188 0 010 80 8 8 0 01-5 5z"/></svg>
+    
+    
+    
+    
+  
+  <style>
+    #block-3aabcdb54d2997a403bd .sqs-block-alignment-wrapper {
+      
+      
+      justify-content: center;
+      
+      
+    }
+
+    
+      #block-3aabcdb54d2997a403bd .sqs-shape > * {
+        
+          stroke: none;
+        
+      }
+    
+
+    
+      
+    
+
+    
+      
+      
+    
+
+    
+      
+        #block-3aabcdb54d2997a403bd {
+          --shape-block-dropshadow-color: 
+  
+    
+      hsla(var(--darkAccent-hsl), 1)
+    
+  
+  
+;
+        }
+      
+    
+  </style>
+</div>
+</div></div></div><div class="fe-block fe-block-a7f2f90469be00f15989"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-a7f2f90469be00f15989"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h2 style="white-space:pre-wrap;"><span class="sqsrte-text-color--custom" style="color: rgb(255, 218, 0)"><strong>premium</strong></span></h2></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-f98ffcfd7e0bc03705e1"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f98ffcfd7e0bc03705e1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Personalisoitu nettisivu</span></h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-6047bf4386e25780a3c9"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-6047bf4386e25780a3c9"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>Alkaen 197€/kuussa</strong></span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Personalisoitu nettisivu yritykselle. Muokkaamme nettisivusta yksilöllisen ja monipuolisen kokonaisuuden.</span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">-Lisäämme tarvittaessa ulkoisia lisäosia kuten ajanvaraus sivuja ja portfolioita.</span></p><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">-Personalisoidut nettisivut</span></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-146e34106dab72978ebf"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-146e34106dab72978ebf"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Ilmoittaudu
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="65c200456b41791a5076a31c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c200456b41791a5076a31b {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c200456b41791a5076a31b {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c200456b41791a5076a31b {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(10,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-cc17ed0f768ae964fd37 {
+    grid-area: 3/2/9/10;
+    z-index: 0;
+
+    
+  }
+
+  .fe-block-cc17ed0f768ae964fd37 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-cc17ed0f768ae964fd37 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cc17ed0f768ae964fd37 {
+      grid-area: 3/2/8/26;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-cc17ed0f768ae964fd37 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-cc17ed0f768ae964fd37 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-26dbd6ddd6f90a5d35e1 {
+    grid-area: 10/4/12/8;
+    z-index: 1;
+
+    
+  }
+
+  .fe-block-26dbd6ddd6f90a5d35e1 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-26dbd6ddd6f90a5d35e1 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-26dbd6ddd6f90a5d35e1 {
+      grid-area: 9/12/11/16;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-26dbd6ddd6f90a5d35e1 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-26dbd6ddd6f90a5d35e1 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c200456b41791a5076a31b"><div class="fe-block fe-block-cc17ed0f768ae964fd37"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-cc17ed0f768ae964fd37"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">Älä epäröi!</h2><h2 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--custom" style="color: rgb(252, 227, 93)">ota yhteyttä.</span></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-26dbd6ddd6f90a5d35e1"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-26dbd6ddd6f90a5d35e1"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Ota yhteyttä
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>services</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>Tietoa meistä</title>
+      <pubDate>Tue, 06 Feb 2024 12:07:41 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65c20046839e977d2dbed260">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65c20046839e977d2dbed264"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c20046839e977d2dbed263 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c20046839e977d2dbed263 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c20046839e977d2dbed263 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(18,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-c800ab8be205e0860d75 {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+
+    
+  }
+
+  .fe-block-c800ab8be205e0860d75 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-c800ab8be205e0860d75 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c800ab8be205e0860d75 {
+      grid-area: 2/2/4/13;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-c800ab8be205e0860d75 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-c800ab8be205e0860d75 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-7ff161840cfab051e950 {
+    grid-area: 3/2/15/10;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-7ff161840cfab051e950 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-7ff161840cfab051e950 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7ff161840cfab051e950 {
+      grid-area: 4/2/16/13;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-7ff161840cfab051e950 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-7ff161840cfab051e950 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-356cde57d4ba168b3f00 {
+    grid-area: 15/4/17/8;
+    z-index: 3;
+
+    
+  }
+
+  .fe-block-356cde57d4ba168b3f00 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-356cde57d4ba168b3f00 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-356cde57d4ba168b3f00 {
+      grid-area: 16/2/18/6;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-356cde57d4ba168b3f00 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-356cde57d4ba168b3f00 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1707212891365_219589 {
+    grid-area: 17/2/23/10;
+    z-index: 3;
+
+    
+      
+    
+  }
+
+  .fe-block-yui_3_17_2_1_1707212891365_219589 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1707212891365_219589 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1707212891365_219589 {
+      grid-area: 1/15/19/26;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1707212891365_219589 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1707212891365_219589 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c20046839e977d2dbed263"><div class="fe-block fe-block-c800ab8be205e0860d75"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c800ab8be205e0860d75"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Tietoa meistä</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-7ff161840cfab051e950"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-7ff161840cfab051e950"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Olemme Espoolainen aloitteleva markkinointi virasto. Luomme mukautettuja ja yksilöllisiä  nettisivuja asiakkaillemme. Pyrimme kasvattamaan mainettamme ympäri Helsingin seutua. Siksi tarjoamme ilmaisia nettisivu luonnoksia pien yrityksille kuten hierojille, autopesuloille, minigolf yrityksille yms.</p><p class="" style="white-space:pre-wrap;">Tavoitteemme on luoda tämän kautta uskottavuutta, luottamusta ja kontakteja.</p><p class="" style="white-space:pre-wrap;">Ymmärrämme tärkeyden tietää mahdollisen bisnes kumppaninne taustan. <strong>Ota meihin siis yhteyttä, jos kiinnostuit!</strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-356cde57d4ba168b3f00"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-356cde57d4ba168b3f00"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Ota yhteyttä
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1707212891365_219589"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1707212891365_219589"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png" data-image="https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png" data-image-dimensions="712x831" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png" width="712" height="831" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 45.83333333333333vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65c1fe28c41f1173e675c416/713953c4-e12a-4fe6-a228-73ca1d8fb28d/N%C3%A4ytt%C3%B6kuva+2024-02-06+135721.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-yui_3_17_2_1_1707212891365_219589 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Ota yhteyttä</title>
+      <pubDate>Tue, 06 Feb 2024 11:27:31 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65c200470153bc74897fffeb">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65c200470153bc74897fffef"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65c200470153bc74897fffee {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65c200470153bc74897fffee {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65c200470153bc74897fffee {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-39a4cdb536dfdb5b3ddc {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    
+  }
+
+  .fe-block-39a4cdb536dfdb5b3ddc .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-39a4cdb536dfdb5b3ddc .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-39a4cdb536dfdb5b3ddc {
+      grid-area: 1/2/12/12;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-39a4cdb536dfdb5b3ddc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-39a4cdb536dfdb5b3ddc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-7bdab5918b19afe9d45d {
+    grid-area: 7/2/9/10;
+    z-index: 1;
+
+    
+  }
+
+  .fe-block-7bdab5918b19afe9d45d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-7bdab5918b19afe9d45d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7bdab5918b19afe9d45d {
+      grid-area: 13/2/14/12;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-7bdab5918b19afe9d45d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-7bdab5918b19afe9d45d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-4a9cb95fd35dd3ae8831 {
+    grid-area: 9/2/23/10;
+    z-index: 2;
+
+    
+  }
+
+  .fe-block-4a9cb95fd35dd3ae8831 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-4a9cb95fd35dd3ae8831 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4a9cb95fd35dd3ae8831 {
+      grid-area: 1/14/13/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-4a9cb95fd35dd3ae8831 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4a9cb95fd35dd3ae8831 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65c200470153bc74897fffee"><div class="fe-block fe-block-39a4cdb536dfdb5b3ddc"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-39a4cdb536dfdb5b3ddc"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Ota yhteyttä!</h2><p class="sqsrte-large" style="white-space:pre-wrap;">Jos palvelumme kiinnostaa. Älä jätä roikkumaan, vaan ota yhteyttä meihin. Pyrimme vastaamaan pikaisesti yhteydenottoihin ja palvelemaan parhaalla mahdollisella tavalla.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong>Yhteystiedot:</strong></p><p class="" style="white-space:pre-wrap;"><strong>onjomedia@gmail.com</strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-7bdab5918b19afe9d45d"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-7bdab5918b19afe9d45d"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <style>
+    #block-7bdab5918b19afe9d45d .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/onjomedia/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="fe-block fe-block-4a9cb95fd35dd3ae8831"><div class="sqs-block form-block sqs-block-form" data-blend-mode="NORMAL" data-block-type="9" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4a9cb95fd35dd3ae8831"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-65c200470153bc74897fffea" class="sqs-form-block-context">{"secureUrl":"https://porpoise-seahorse-2h3s.squarespace.com","formSubmitButtonText":"Lähetä","formSubmissionMessage":{"html":"<p class=\"\" style=\"white-space:pre-wrap;\">Kiitos luottamuksestanne! Olemme teihin yhteydessä pian.</p>"},"submissionVerticalAlignment":"","buttonAlignment":"stretch","submissionMessageTextStyle":"","formName":"Hakemus","collectionId":"65c200470153bc74897fffec","submissionAnimation":"","captchaTheme":1,"formId":"65c200470153bc74897fffea","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"FI","labelLocale":"fi-FI","fields":[{"type":"FIELD","label":"1","identifier":"1","length":20,"required":false,"metadata":{}}]},"countries":[{"name":"Afganistan","code":"AF","phoneCode":"+93"},{"name":"Ahvenanmaa","code":"AX","phoneCode":"+358"},{"name":"Alankomaat","code":"NL","phoneCode":"+31"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"Amerikan Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua ja Barbuda","code":"AG","phoneCode":"+1"},{"name":"Arabiemiirikunnat","code":"AE","phoneCode":"+971"},{"name":"Argentiina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension-saari","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Azerbaidžan","code":"AZ","phoneCode":"+994"},{"name":"Bahama","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belgia","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia ja Hertsegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brasilia","code":"BR","phoneCode":"+55"},{"name":"Brittiläinen Intian valtameren alue","code":"IO","phoneCode":"+246"},{"name":"Brittiläiset Neitsytsaaret","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Caymansaaret","code":"KY","phoneCode":"+1"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"Cookinsaaret","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominikaaninen tasavalta","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypti","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Espanja","code":"ES","phoneCode":"+34"},{"name":"Etelä-Afrikka","code":"ZA","phoneCode":"+27"},{"name":"Etelä-Korea","code":"KR","phoneCode":"+82"},{"name":"Etelä-Sudan","code":"SS","phoneCode":"+211"},{"name":"Etiopia","code":"ET","phoneCode":"+251"},{"name":"Falklandinsaaret","code":"FK","phoneCode":"+500"},{"name":"Fidži","code":"FJ","phoneCode":"+679"},{"name":"Filippiinit","code":"PH","phoneCode":"+63"},{"name":"Färsaaret","code":"FO","phoneCode":"+298"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Grönlanti","code":"GL","phoneCode":"+299"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hongkong – Kiinan e.h.a.","code":"HK","phoneCode":"+852"},{"name":"Huippuvuoret ja Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Intia","code":"IN","phoneCode":"+91"},{"name":"Irak","code":"IQ","phoneCode":"+964"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Irlanti","code":"IE","phoneCode":"+353"},{"name":"Islanti","code":"IS","phoneCode":"+354"},{"name":"Iso-Britannia","code":"GB","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italia","code":"IT","phoneCode":"+39"},{"name":"Itä-Timor","code":"TL","phoneCode":"+670"},{"name":"Itävalta","code":"AT","phoneCode":"+43"},{"name":"Jamaika","code":"JM","phoneCode":"+1"},{"name":"Japani","code":"JP","phoneCode":"+81"},{"name":"Jemen","code":"YE","phoneCode":"+967"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordania","code":"JO","phoneCode":"+962"},{"name":"Joulusaari","code":"CX","phoneCode":"+61"},{"name":"Kambodža","code":"KH","phoneCode":"+855"},{"name":"Kamerun","code":"CM","phoneCode":"+237"},{"name":"Kanada","code":"CA","phoneCode":"+1"},{"name":"Kap Verde","code":"CV","phoneCode":"+238"},{"name":"Karibian Alankomaat","code":"BQ","phoneCode":"+599"},{"name":"Kazakstan","code":"KZ","phoneCode":"+7"},{"name":"Kenia","code":"KE","phoneCode":"+254"},{"name":"Keski-Afrikan tasavalta","code":"CF","phoneCode":"+236"},{"name":"Kiina","code":"CN","phoneCode":"+86"},{"name":"Kirgisia","code":"KG","phoneCode":"+996"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kolumbia","code":"CO","phoneCode":"+57"},{"name":"Komorit","code":"KM","phoneCode":"+269"},{"name":"Kongon demokraattinen tasavalta","code":"CD","phoneCode":"+243"},{"name":"Kongon tasavalta","code":"CG","phoneCode":"+242"},{"name":"Kookossaaret (Keelingsaaret)","code":"CC","phoneCode":"+61"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kreikka","code":"GR","phoneCode":"+30"},{"name":"Kroatia","code":"HR","phoneCode":"+385"},{"name":"Kuuba","code":"CU","phoneCode":"+53"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kypros","code":"CY","phoneCode":"+357"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Libanon","code":"LB","phoneCode":"+961"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Liettua","code":"LT","phoneCode":"+370"},{"name":"Luxemburg","code":"LU","phoneCode":"+352"},{"name":"Länsi-Sahara","code":"EH","phoneCode":"+212"},{"name":"Macao – Kiinan e.h.a.","code":"MO","phoneCode":"+853"},{"name":"Madagaskar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malediivit","code":"MV","phoneCode":"+960"},{"name":"Malesia","code":"MY","phoneCode":"+60"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Mansaari","code":"IM","phoneCode":"+44"},{"name":"Marokko","code":"MA","phoneCode":"+212"},{"name":"Marshallinsaaret","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Meksiko","code":"MX","phoneCode":"+52"},{"name":"Mikronesian liittovaltio","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Mosambik","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolkinsaari","code":"NF","phoneCode":"+672"},{"name":"Norja","code":"NO","phoneCode":"+47"},{"name":"Norsunluurannikko","code":"CI","phoneCode":"+225"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestiinalaisalueet","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua-Uusi-Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Pohjois-Korea","code":"KP","phoneCode":"+850"},{"name":"Pohjois-Makedonia","code":"MK","phoneCode":"+389"},{"name":"Pohjois-Mariaanit","code":"MP","phoneCode":"+1"},{"name":"Portugali","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Puola","code":"PL","phoneCode":"+48"},{"name":"Päiväntasaajan Guinea","code":"GQ","phoneCode":"+240"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Ranska","code":"FR","phoneCode":"+33"},{"name":"Ranskan Guayana","code":"GF","phoneCode":"+594"},{"name":"Ranskan Polynesia","code":"PF","phoneCode":"+689"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Ruanda","code":"RW","phoneCode":"+250"},{"name":"Ruotsi","code":"SE","phoneCode":"+46"},{"name":"Saint-Barthélemy","code":"BL","phoneCode":"+590"},{"name":"Saint Helena","code":"SH","phoneCode":"+290"},{"name":"Saint Kitts ja Nevis","code":"KN","phoneCode":"+1"},{"name":"Saint Lucia","code":"LC","phoneCode":"+1"},{"name":"Saint-Martin","code":"MF","phoneCode":"+590"},{"name":"Saint-Pierre ja Miquelon","code":"PM","phoneCode":"+508"},{"name":"Saint Vincent ja Grenadiinit","code":"VC","phoneCode":"+1"},{"name":"Saksa","code":"DE","phoneCode":"+49"},{"name":"Salomonsaaret","code":"SB","phoneCode":"+677"},{"name":"Sambia","code":"ZM","phoneCode":"+260"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé ja Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi-Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychellit","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suomi","code":"FI","phoneCode":"+358"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Swazimaa","code":"SZ","phoneCode":"+268"},{"name":"Sveitsi","code":"CH","phoneCode":"+41"},{"name":"Syyria","code":"SY","phoneCode":"+963"},{"name":"Tadžikistan","code":"TJ","phoneCode":"+992"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tansania","code":"TZ","phoneCode":"+255"},{"name":"Tanska","code":"DK","phoneCode":"+45"},{"name":"Thaimaa","code":"TH","phoneCode":"+66"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad ja Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tšad","code":"TD","phoneCode":"+235"},{"name":"Tšekki","code":"CZ","phoneCode":"+420"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkki","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks- ja Caicossaaret","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraina","code":"UA","phoneCode":"+380"},{"name":"Unkari","code":"HU","phoneCode":"+36"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uusi-Kaledonia","code":"NC","phoneCode":"+687"},{"name":"Uusi-Seelanti","code":"NZ","phoneCode":"+64"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Valko-Venäjä","code":"BY","phoneCode":"+375"},{"name":"Wallis ja Futuna","code":"WF","phoneCode":"+681"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatikaani","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Venäjä","code":"RU","phoneCode":"+7"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Viro","code":"EE","phoneCode":"+372"},{"name":"Yhdysvallat","code":"US","phoneCode":"+1"},{"name":"Yhdysvaltain Neitsytsaaret","code":"VI","phoneCode":"+1"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"FI","labelLocale":"fi","fields":[{"type":"FIELD","label":"Osoiterivi 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Osoiterivi 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postinumero","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postitoimipaikka","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}}]}},"showTitle":false,"captchaEnabled":true,"buttonVariant":"primary","objectName":"4a9cb95fd35dd3ae8831","formFields":[{"type":"name","id":"name-yui_3_17_2_1_1553888888520_3744","locked":false,"title":"Nimi","description":"","required":true,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1553888888520_3745","locked":false,"title":"Sähköpostiosoite","description":"","placeholder":"","required":true,"email":true},{"type":"textarea","id":"textarea-yui_3_17_2_1_1553888888520_3747","locked":false,"title":"Viesti","description":"","placeholder":"","required":true,"textarea":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"Kelvollinen valinta täytyy tehdä.","invalidEmail":"Sähköpostiosoitteen täytyy olla muodossa user@domain.com.","invalidUrl":"Tämän täytyy olla kelvollinen URL-osoite.","invalidListLength":"Arvon täytyy olla {0} elementtiä pitkä.","allEmpty":"Täytä ainakin yksi lomakekenttä.","stringTooLong":"Arvon pituus voi olla enintään {0}.","missingRequiredQuestion":"Pakollinen kysymys puuttuu.","invalidQuestion":"Sisälsi virheellisen kysymyksen.","captchaFailure":"Captcha-tarkistus epäonnistui. Yritä uudelleen.","containsInvalidKey":"{0} sisältää virheellisen avaimen.","stringTooShort":"Arvon pituuden tulee olla vähintään {0}.","invalidTwitterUsername":"Tämän täytyy olla kelvollinen Twitter-käyttäjänimi.","valueOutsideRange":"Arvon täytyy olla alueella {0}–{1}.","invalid":"{0} ei ole kelvollinen.","invalidPassword":"Salasana ei voi sisältää välilyöntejä.","missingRequiredSubfields":"Kentästä {0} puuttuu pakollisia alakenttiä: {1}","invalidCurrency":"Valuutta-arvon täytyy olla muodossa 1234 tai 123,99.","invalidMapSize":"Arvon täytyy sisältää tasan {0} elementtiä.","formErrors":"Lomakevirheet","containsInvalidValue":"{0} sisältää virheellisen arvon.","subfieldsRequired":"{0}: kaikki kentät ovat pakollisia.","formSubmissionFailed":"Lomakkeen lähetys epäonnistui. Tarkista seuraavat tiedot: {0}.","invalidCountryCode":"Maatunnuksessa voi olla plusmerkki ja enintään neljä numeroa.","invalidUnsignedNumber":"Numeroissa voi olla vain numeroita, ei mitään muita merkkejä.","invalidName":"Kelvolliset nimet voivat sisältää vain kirjaimia, numeroita, välilyöntejä ja merkkejä ' sekä -.","invalidDate":"Tämä ei ole oikea päivämäärä.","required":"{0} on pakollinen.","invalidStringLength":"Arvon täytyy olla {0} merkkiä pitkä."},"submit":"Lähetä","status":{"title":"Lohko – {@}","learnMore":"Lue lisää"},"name":{"firstName":"Etunimi","lastName":"Sukunimi"},"address":{"country":"Maa","zipPostalCode":"Postinumero","address2":"Osoite 2","address1":"Osoite 1","city":"Postitoimipaikka","stateProvince":"Alue tai provinssi"},"lightbox":{"openForm":"Avaa lomake"},"date":{"day":"Päivä","month":"Kuukausi","yyyy":"VVVV","year":"Vuosi","dd":"PP","mm":"KK"},"likert":{"agree":"Samaa mieltä","disagree":"Eri mieltä","stronglyDisagree":"Täysin eri mieltä","stronglyAgree":"Täysin samaa mieltä","neutral":"Ei samaa eikä eri mieltä"},"time":{"am":"AM","second":"Sekunti","amPm":"AM/PM","pm":"PM","minute":"Minuutti","hour":"Tunti"},"email":{"signUp":"Tilaa uutisia ja päivityksiä"},"cannotSubmitDemoForm":"Tämä on demolomake, jota ei voi lähettää.","notFound":"Lomaketta ei löydy.","phone":{"country":"Maa","number":"Numero","prefix":"Etuliite","areaCode":"Suuntanumero","line":"Puhelinnumero"},"required":"(pakollinen)","submitError":"Lomakkeen lähettäminen ei onnistu. Yritä myöhemmin uudelleen.","invalidData":"Lomaketiedot ovat virheellisiä."}}</script>
+  <div id="form-submission-html-65c200470153bc74897fffea" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="65c200470153bc74897fffea"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://porpoise-seahorse-2h3s.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '65c200470153bc74897fffea',
+      collectionId: '65c200470153bc74897fffec',
+      objectName: '4a9cb95fd35dd3ae8831'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Nimi
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Etunimi</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Sukunimi</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Sähköpostiosoite
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Viesti
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="captcha-container
+        align-left
+        
+        
+        "
+        data-theme="light"
+      ></div>
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-stretch
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Lähetä"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p class="" style="white-space:pre-wrap;">Kiitos luottamuksestanne! Olemme teihin yhteydessä pian.</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
